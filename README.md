@@ -83,7 +83,7 @@ int main(void)
 ```{bash}
 linux>$  gcc -Wall -Werror -Wextra -pedantic *.c -o print_program
 linux>$  ./print_program
-Hello, Holberton is 98.
+Hello, ALX is 98.
 linux>$
 ```
 ## Contributors
